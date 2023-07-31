@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import video from "../assets/banner-video.mp4";
-import video_webm from "../assets/_banner-video.webm";
+import video_webm from "../assets/banner-video.mp4";
 import FontFaceObserver from "fontfaceobserver";
 
 const font = new FontFaceObserver("BMYEONSUNG");
